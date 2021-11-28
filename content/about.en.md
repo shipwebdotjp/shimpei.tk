@@ -1,10 +1,10 @@
 ---
 title : "About"
-description : "shimpei.tkについて"
+description : "About shimpei.tk"
 date : "2021-11-28"
 aliases : ["about-us", "about-hugo", "contact"]
 author : "Shimpei"
 showReadTime: false
 ---
 
-個人的なサイトです。
+This is my site. For personal use.
