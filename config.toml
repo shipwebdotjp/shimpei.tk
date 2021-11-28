@@ -1,0 +1,9 @@
+baseURL = 'https://shimpei.tk/'
+languageCode = 'en-us'
+title = 'Shimpei.tk'
+theme = "hugo-clarity"
+
+showShare = false
+
+[permalinks]
+posts = "/:year/:month:/:day/:filename/"

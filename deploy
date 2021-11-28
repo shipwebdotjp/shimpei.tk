@@ -1,0 +1,4 @@
+hugo && rsync -avz --delete public/ conoha:/home/general_web/html/shimpei.tk/
+
+exit 0
+

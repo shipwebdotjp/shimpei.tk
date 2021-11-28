@@ -1,0 +1,53 @@
+[read_more]
+other = "続きを読む"
+
+[copyright]
+other = "Copyright"
+
+[all_rights]
+other = "All Rights Reserved"
+
+[share_on]
+other = "シェア"
+
+[featured_posts]
+other = "おすすめ記事"
+
+[recent_posts]
+other = "最近の投稿"
+
+[404_title]
+other = "迷子"
+
+[could_not_find]
+other = "ページが見つかりません"
+
+[go_back]
+other = "戻る"
+
+[translations]
+other = "翻訳"
+
+[categories]
+other = "カテゴリ"
+
+[tags]
+other = "タグ"
+
+[series]
+other = "シリーズ"
+
+[all_categories]
+other = "全てのカテゴリ"
+
+[all_tags]
+other = "全てのタグ"
+
+[all_series]
+other = "全てのシリーズ"
+
+[overview]
+other = "概要"
+
+[reading_time]
+other = "{{ .ReadingTime }} 分で読めます"
