@@ -7,4 +7,4 @@ author : "Shimpei"
 showReadTime: false
 ---
 
-This is my site. For personal use.
+![:right::round](/images/profile.jpg) This is my site. For personal use.

@@ -14,7 +14,7 @@ codeLineNumbers: false # Override global value for showing of line numbers withi
 figurePositionShow: true # Override global value for showing the figure label.
 showReadTime: false
 categories:
-  - Life
+  - 生活
 tags:
   - Tag_name1
 # comment: false # Disable comment if false.

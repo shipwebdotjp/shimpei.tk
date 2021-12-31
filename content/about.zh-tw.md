@@ -7,4 +7,4 @@ author : "Shimpei"
 showReadTime: false
 ---
 
-我的個人網站。隨便寫日常生活。
+![:right::round](/images/profile.jpg) 我的個人網站。隨便寫日常生活。

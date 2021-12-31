@@ -4,7 +4,7 @@
   LanguageName = "日本語"
   weight = 1
   [ja.params]
-    introDescription = "静岡で蜜柑食べてます。"
+    introDescription = false
     dateFormat = "2006/01/02"
 
 [en]
@@ -12,12 +12,12 @@
   LanguageName = "English"
   weight = 2
   [en.params]
-    introDescription = "I'm eating orange in Shizuoka."
+    introDescription = false
 
 [zh-TW]
   title = "Shimpei.tk"
   LanguageName = "中文"
   weight = 3
   [zh-TW.params]
-    introDescription = "在靜岡吃橘子"
+    introDescription = false
     dateFormat = "2006/01/02"

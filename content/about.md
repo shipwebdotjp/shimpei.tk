@@ -7,4 +7,6 @@ author : "Shimpei"
 showReadTime: false
 ---
 
-個人的なサイトです。
+![:right::round](/images/profile.jpg) 個人サイトです。日常の思ったことややったことなどだらだら書いています。
+
+
