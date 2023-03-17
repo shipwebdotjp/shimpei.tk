@@ -1,0 +1,4 @@
+hugo new post/2023/${1}.md
+code content/post/2023/${1}.md
+exit 0
+
