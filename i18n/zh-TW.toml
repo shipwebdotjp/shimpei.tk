@@ -51,3 +51,6 @@ other = "文章目錄"
 
 [reading_time]
 other = "{{ .ReadingTime }} min read"
+
+[section]
+other = "項目"

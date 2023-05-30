@@ -51,3 +51,6 @@ other = "概要"
 
 [reading_time]
 other = "{{ .ReadingTime }} 分で読めます"
+
+[section]
+other = "セクション"

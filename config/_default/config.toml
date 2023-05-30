@@ -21,6 +21,6 @@ summaryLength = 100
 # config/_default/menus/menu.xx.toml
 
 [taxonomies]
-category = "categories"
+# category = "categories"
 tag = "tags"
-series = "series"
+# series = "series"
