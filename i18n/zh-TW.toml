@@ -54,3 +54,6 @@ other = "{{ .ReadingTime }} min read"
 
 [section]
 other = "項目"
+
+[related_posts]
+other = "相關文章"

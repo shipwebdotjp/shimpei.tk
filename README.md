@@ -5,12 +5,18 @@ This repository offers an example site for [Hugo](https://gohugo.io/) and also i
 # Using
 
 1. [Install Hugo](https://gohugo.io/overview/installing/)
+```bash
+    brew install hugo
+```
 2. Clone this repository
 ```bash
-git clone https://github.com/gohugoio/hugoBasicExample.git
+git clone git@github.com:shipwebdotjp/shimpei.tk.git
 cd hugoBasicExample
 ```
 3. Clone the repository you want to test. If you want to test all Hugo Themes then follow the instructions provided [here](https://github.com/gohugoio/hugoThemes#installing-all-themes)
+```
+git submodule update --init --recursive
+```
 4. Run Hugo and select the theme of your choosing
 ```bash
 hugo server -t YOURTHEME

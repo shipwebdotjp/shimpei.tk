@@ -13,8 +13,6 @@ other = "Share on"
 [featured_posts]
 other = "Featured Posts"
 
-[recent_posts]
-other = "Recent Posts"
 
 [404_title]
 other = "Lost"
@@ -54,3 +52,6 @@ other = "{{ .ReadingTime }} min read"
 
 [section]
 other = "section"
+
+[related_posts]
+other = "Related Posts"

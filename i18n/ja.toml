@@ -54,3 +54,6 @@ other = "{{ .ReadingTime }} 分で読めます"
 
 [section]
 other = "セクション"
+
+[related_posts]
+other = "関連記事"

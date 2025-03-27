@@ -7,7 +7,7 @@ description = "個人的なメモやアイデア、出来事、備忘録を公�
 showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
 
 # Google analytics Id
-ga_analytics = "UA-214312314-2"
+google_tag_manager_id = "G-TZ99E2ZKMV"
 
 # Baidu analytics Id
 # baidu_analytics = "XXXXXXXX"
@@ -33,7 +33,8 @@ mainSections = ["post", "book"] # see config details here https://gohugo.io/func
 # center logo on navbar
 centerLogo = false # Set to "true" for centering or "false" for left aligned.
 
-logo = "logos/logo.png"
+logo = "images/logo.png"
+footerLogo = "icons/apple-touch-icon.png"
 
 # Label Non inline images on an article body
 figurePositionShow = false # toggle on or off globally
@@ -65,7 +66,7 @@ languageMenuName = "🌐"
 # comments = false
 
 # Maximum number of recent posts.
-# numberOfRecentPosts = 8
+numberOfRecentPosts = 10
 
 # Maximum number of featured posts.
 # numberOfFeaturedPosts = 8
@@ -84,9 +85,11 @@ iconsDir = "icons/" # without a leading forward slash
 # show read times
 showReadTime = false
 
+showRelatedInArticle = true
+
 # website author
 [author]
-name = "Shimpei"
+name = "Ship"
 photo = "images/profile.jpg" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]

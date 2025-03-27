@@ -1,6 +1,6 @@
-baseURL = 'https://shimpei.tk/'
+baseURL = 'https://life.shipweb.jp/'
 languageCode = 'en-us'
-title = 'Shimpei.tk'
+title = 'シップの航海日誌'
 theme = "hugo-clarity"
 
 showShare = false

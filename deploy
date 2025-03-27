@@ -1,4 +1,5 @@
-hugo && rsync -avz --delete public/ gmo:/home/general_web/html/shimpei.tk/
+# hugo && rsync -avz --delete --chmod=a+r public/ conoha:/home/general_web/html/shimpei.tk/
+hugo && rsync -avz --delete --chmod=a+r public/ conoha:/home/general_web/html/life.shipweb.jp/
 
 exit 0
 

@@ -1,0 +1,11 @@
+staticDir = ['static']
+
+[module]
+[[module.mounts]]
+  excludeFiles = '*.md'
+  source = 'content/post/files'
+  target = 'static/post/files'
+[[module.mounts]]
+  excludeFiles = '*.md'
+  source = 'content/book/files'
+  target = 'static/book/files'
